@@ -167,47 +167,6 @@
       "id": "6428e5e6dc1175abc65ca084"
     },
     {
-      "sold": 3591,
-      "images": [
-        "https://ecommerce.routemisr.com/Route-Academy-products/1680401672624-2.jpeg",
-        "https://ecommerce.routemisr.com/Route-Academy-products/1680401672623-1.jpeg",
-        "https://ecommerce.routemisr.com/Route-Academy-products/1680401672624-3.jpeg"
-      ],
-      "subcategory": [
-        {
-          "_id": "6407f1bcb575d3b90bf95797",
-          "name": "Women's Clothing",
-          "slug": "women's-clothing",
-          "category": "6439d58a0049ad0b52b9003f"
-        }
-      ],
-      "ratingsQuantity": 5,
-      "_id": "6428e509dc1175abc65ca07e",
-      "title": "Relaxed Fit Knitted Joggers Lilac",
-      "slug": "relaxed-fit-knitted-joggers-lilac",
-      "description": "Colour Name\tPink\nDepartment\tWomen\nMaterial Composition\tPolyester Blend",
-      "quantity": 222,
-      "price": 499,
-      "priceAfterDiscount": 189,
-      "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1680401672268-cover.jpeg",
-      "category": {
-        "_id": "6439d58a0049ad0b52b9003f",
-        "name": "Women's Fashion",
-        "slug": "women's-fashion",
-        "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511818071.jpeg"
-      },
-      "brand": {
-        "_id": "64089bbe24b25627a253158b",
-        "name": "DeFacto",
-        "slug": "defacto",
-        "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678285758109.png"
-      },
-      "ratingsAverage": 4.8,
-      "createdAt": "2023-04-02T02:14:33.277Z",
-      "updatedAt": "2024-09-21T20:10:18.490Z",
-      "id": "6428e509dc1175abc65ca07e"
-    },
-    {
       "sold": 3824,
       "images": [
         "https://ecommerce.routemisr.com/Route-Academy-products/1680401528923-1.jpeg",
@@ -245,46 +204,6 @@
       "createdAt": "2023-04-02T02:12:09.566Z",
       "updatedAt": "2024-09-21T21:44:16.869Z",
       "id": "6428e479dc1175abc65ca078"
-    },
-    {
-      "sold": 3101,
-      "images": [
-        "https://ecommerce.routemisr.com/Route-Academy-products/1680401176767-2.jpeg",
-        "https://ecommerce.routemisr.com/Route-Academy-products/1680401176766-1.jpeg",
-        "https://ecommerce.routemisr.com/Route-Academy-products/1680401176768-3.jpeg"
-      ],
-      "subcategory": [
-        {
-          "_id": "6407f1bcb575d3b90bf95797",
-          "name": "Women's Clothing",
-          "slug": "women's-clothing",
-          "category": "6439d58a0049ad0b52b9003f"
-        }
-      ],
-      "ratingsQuantity": 6,
-      "_id": "6428e319dc1175abc65ca06d",
-      "title": "Woman Karma Socks Multicolour",
-      "slug": "woman-karma-socks-multicolour",
-      "description": "Soft and comfortable cotton fabric\nCrew neck and short sleeves\nComfortable, regular fit\nWash according to care label instructions",
-      "quantity": 117,
-      "price": 199,
-      "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1680401176411-cover.jpeg",
-      "category": {
-        "_id": "6439d58a0049ad0b52b9003f",
-        "name": "Women's Fashion",
-        "slug": "women's-fashion",
-        "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511818071.jpeg"
-      },
-      "brand": {
-        "_id": "64089bbe24b25627a253158b",
-        "name": "DeFacto",
-        "slug": "defacto",
-        "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678285758109.png"
-      },
-      "ratingsAverage": 4.3,
-      "createdAt": "2023-04-02T02:06:17.489Z",
-      "updatedAt": "2024-09-21T21:44:16.869Z",
-      "id": "6428e319dc1175abc65ca06d"
     },
     {
       "sold": 2419,
@@ -706,47 +625,6 @@
       "createdAt": "2023-04-02T00:23:53.765Z",
       "updatedAt": "2024-09-21T14:10:53.478Z",
       "id": "6428cb19dc1175abc65ca031"
-    },
-    {
-      "sold": 862,
-      "images": [
-        "https://ecommerce.routemisr.com/Route-Academy-products/1680394855240-2.jpeg",
-        "https://ecommerce.routemisr.com/Route-Academy-products/1680394855240-3.jpeg",
-        "https://ecommerce.routemisr.com/Route-Academy-products/1680394855239-1.jpeg",
-        "https://ecommerce.routemisr.com/Route-Academy-products/1680394855240-4.jpeg"
-      ],
-      "subcategory": [
-        {
-          "_id": "6407f243b575d3b90bf957ac",
-          "name": "Men's Clothing",
-          "slug": "men's-clothing",
-          "category": "6439d5b90049ad0b52b90048"
-        }
-      ],
-      "ratingsQuantity": 13,
-      "_id": "6428ca68dc1175abc65ca02b",
-      "title": "Adicolor Classics Beckenbauer Primeblue Track Top",
-      "slug": "adicolor-classics-beckenbauer-primeblue-track-top",
-      "description": "Material\tCotton Blend\nColour Name\tnight indigo\nDepartment\tMen",
-      "quantity": 120,
-      "price": 2379,
-      "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1680394855158-cover.jpeg",
-      "category": {
-        "_id": "6439d5b90049ad0b52b90048",
-        "name": "Men's Fashion",
-        "slug": "men's-fashion",
-        "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511865180.jpeg"
-      },
-      "brand": {
-        "_id": "64089c3924b25627a2531593",
-        "name": "Adidas",
-        "slug": "adidas",
-        "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678285881943.png"
-      },
-      "ratingsAverage": 3.8,
-      "createdAt": "2023-04-02T00:20:56.323Z",
-      "updatedAt": "2024-09-20T21:59:35.579Z",
-      "id": "6428ca68dc1175abc65ca02b"
     },
     {
       "sold": 981,
