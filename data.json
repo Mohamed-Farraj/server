@@ -1298,17 +1298,11 @@
       "id": "e6e7",
       "imageCover": "https://beltk.com/wp-content/uploads/2024/05/DA-6-co54py-2.webp",
       "title": "smart watch",
-      "category": "Home",
+      "category": {
+        "name": "Music"
+      },
       "price": 300,
       "description": "just a nice watch"
-    },
-    {
-      "id": "476b",
-      "imageCover": "https://beltk.com/wp-content/uploads/2024/05/DA-6-co54py-2.webp",
-      "title": "Possimus sed anim n",
-      "category": "Books",
-      "price": 83,
-      "description": "Similique incidunt "
     }
   ],
   "categories": [
