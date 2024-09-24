@@ -167,45 +167,6 @@
       "id": "6428e5e6dc1175abc65ca084"
     },
     {
-      "sold": 3824,
-      "images": [
-        "https://ecommerce.routemisr.com/Route-Academy-products/1680401528923-1.jpeg",
-        "https://ecommerce.routemisr.com/Route-Academy-products/1680401528924-2.jpeg"
-      ],
-      "subcategory": [
-        {
-          "_id": "6407f1bcb575d3b90bf95797",
-          "name": "Women's Clothing",
-          "slug": "women's-clothing",
-          "category": "6439d58a0049ad0b52b9003f"
-        }
-      ],
-      "ratingsQuantity": 6,
-      "_id": "6428e479dc1175abc65ca078",
-      "title": "Woman Socks",
-      "slug": "woman-socks",
-      "description": "Colour Name\tPink\nDepartment\tWomen\nMaterial Composition\tPolyester Blend",
-      "quantity": 117,
-      "price": 199,
-      "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1680401528864-cover.jpeg",
-      "category": {
-        "_id": "6439d58a0049ad0b52b9003f",
-        "name": "Women's Fashion",
-        "slug": "women's-fashion",
-        "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511818071.jpeg"
-      },
-      "brand": {
-        "_id": "64089bbe24b25627a253158b",
-        "name": "DeFacto",
-        "slug": "defacto",
-        "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678285758109.png"
-      },
-      "ratingsAverage": 4.3,
-      "createdAt": "2023-04-02T02:12:09.566Z",
-      "updatedAt": "2024-09-21T21:44:16.869Z",
-      "id": "6428e479dc1175abc65ca078"
-    },
-    {
       "sold": 2419,
       "images": [
         "https://ecommerce.routemisr.com/Route-Academy-products/1680400287765-1.jpeg",
@@ -246,48 +207,6 @@
       "createdAt": "2023-04-02T01:51:28.886Z",
       "updatedAt": "2024-09-21T11:59:54.904Z",
       "id": "6428dfa0dc1175abc65ca067"
-    },
-    {
-      "sold": 1384,
-      "images": [
-        "https://ecommerce.routemisr.com/Route-Academy-products/1680400120770-2.jpeg",
-        "https://ecommerce.routemisr.com/Route-Academy-products/1680400120771-3.jpeg",
-        "https://ecommerce.routemisr.com/Route-Academy-products/1680400120769-1.jpeg",
-        "https://ecommerce.routemisr.com/Route-Academy-products/1680400120771-4.jpeg"
-      ],
-      "subcategory": [
-        {
-          "_id": "6407f243b575d3b90bf957ac",
-          "name": "Men's Clothing",
-          "slug": "men's-clothing",
-          "category": "6439d5b90049ad0b52b90048"
-        }
-      ],
-      "ratingsQuantity": 14,
-      "_id": "6428def9dc1175abc65ca061",
-      "title": "Orca Leather Boots Anthracite",
-      "slug": "orca-leather-boots-anthracite",
-      "description": "Genuine and smooth leather upper\nSecure lace-ups with side zipper closure\nSlightly cushioned footbed provides comfort\nPatterned chunky outsole provides traction and grip",
-      "quantity": 273,
-      "price": 4829,
-      "priceAfterDiscount": 3064,
-      "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1680400120400-cover.jpeg",
-      "category": {
-        "_id": "6439d5b90049ad0b52b90048",
-        "name": "Men's Fashion",
-        "slug": "men's-fashion",
-        "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511865180.jpeg"
-      },
-      "brand": {
-        "_id": "64089dc924b25627a25315a8",
-        "name": "Jack & Jones",
-        "slug": "jack-and-jones",
-        "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678286281363.png"
-      },
-      "ratingsAverage": 4.9,
-      "createdAt": "2023-04-02T01:48:41.533Z",
-      "updatedAt": "2024-09-21T18:05:07.049Z",
-      "id": "6428def9dc1175abc65ca061"
     },
     {
       "sold": 1886,
@@ -540,48 +459,6 @@
       "createdAt": "2023-04-02T00:33:52.861Z",
       "updatedAt": "2024-09-20T00:47:44.528Z",
       "id": "6428cd70dc1175abc65ca03d"
-    },
-    {
-      "sold": 43987,
-      "images": [
-        "https://ecommerce.routemisr.com/Route-Academy-products/1680395220690-1.jpeg",
-        "https://ecommerce.routemisr.com/Route-Academy-products/1680395220693-3.jpeg",
-        "https://ecommerce.routemisr.com/Route-Academy-products/1680395220692-2.jpeg",
-        "https://ecommerce.routemisr.com/Route-Academy-products/1680395220713-4.jpeg"
-      ],
-      "subcategory": [
-        {
-          "_id": "6407f243b575d3b90bf957ac",
-          "name": "Men's Clothing",
-          "slug": "men's-clothing",
-          "category": "6439d5b90049ad0b52b90048"
-        }
-      ],
-      "ratingsQuantity": 19,
-      "_id": "6428cbd5dc1175abc65ca037",
-      "title": "Essentials Embroidered Linear Logo T-Shirt Navy",
-      "slug": "essentials-embroidered-linear-logo-t-shirt-navy",
-      "description": "Comfortable and soft cotton blend fabric\nRibbed crew neck and short sleeves\nadidas signature branding print\nWash according to care label instructions",
-      "quantity": 118,
-      "price": 749,
-      "priceAfterDiscount": 504,
-      "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1680395220407-cover.jpeg",
-      "category": {
-        "_id": "6439d5b90049ad0b52b90048",
-        "name": "Men's Fashion",
-        "slug": "men's-fashion",
-        "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511865180.jpeg"
-      },
-      "brand": {
-        "_id": "64089c3924b25627a2531593",
-        "name": "Adidas",
-        "slug": "adidas",
-        "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678285881943.png"
-      },
-      "ratingsAverage": 3.8,
-      "createdAt": "2023-04-02T00:27:01.864Z",
-      "updatedAt": "2024-09-21T22:21:17.363Z",
-      "id": "6428cbd5dc1175abc65ca037"
     },
     {
       "sold": 820,
@@ -1416,6 +1293,22 @@
       "createdAt": "2023-03-08T18:55:24.096Z",
       "updatedAt": "2024-09-21T17:52:49.295Z",
       "id": "6408da1c6406cd15828e8f0a"
+    },
+    {
+      "id": "e6e7",
+      "imageCover": "https://beltk.com/wp-content/uploads/2024/05/DA-6-co54py-2.webp",
+      "title": "smart watch",
+      "category": "Home",
+      "price": 300,
+      "description": "just a nice watch"
+    },
+    {
+      "id": "476b",
+      "imageCover": "https://beltk.com/wp-content/uploads/2024/05/DA-6-co54py-2.webp",
+      "title": "Possimus sed anim n",
+      "category": "Books",
+      "price": 83,
+      "description": "Similique incidunt "
     }
   ],
   "categories": [
