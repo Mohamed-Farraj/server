@@ -1254,7 +1254,7 @@
       "imageCover": "https://beltk.com/wp-content/uploads/2024/05/DA-6-co54py-2.webp",
       "title": "smart watch",
       "category": {
-        "name": "Music"
+        "name": "Mobiles"
       },
       "price": 300,
       "description": "just a nice watch"
@@ -1271,12 +1271,6 @@
     }
   ],
   "categories": [
-    {
-      "_id": "6439d61c0049ad0b52b90051",
-      "name": "Music",
-      "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511964020.jpeg",
-      "id": "c87b"
-    },
     {
       "_id": "6439d5b90049ad0b52b90048",
       "name": "Men's Fashion",
