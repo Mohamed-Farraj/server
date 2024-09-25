@@ -19,17 +19,14 @@
       ],
       "ratingsQuantity": 10,
       "_id": "6428e884dc1175abc65ca096",
-      "title": "Woman Shawl",
+      "title": "Edited name",
       "slug": "woman-shawl",
       "description": "Material\tPolyester Blend\nColour Name\tBeige\nDepartment\tWomen",
       "quantity": 228,
-      "price": 349,
+      "price": 99999,
       "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1680402563605-cover.jpeg",
       "category": {
-        "_id": "6439d58a0049ad0b52b9003f",
-        "name": "Women's Fashion",
-        "slug": "women's-fashion",
-        "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511818071.jpeg"
+        "name": "Home"
       },
       "brand": {
         "_id": "64089bbe24b25627a253158b",
@@ -333,48 +330,6 @@
       "createdAt": "2023-04-02T00:49:54.825Z",
       "updatedAt": "2024-09-21T02:46:56.960Z",
       "id": "6428d132dc1175abc65ca04f"
-    },
-    {
-      "sold": 1221,
-      "images": [
-        "https://ecommerce.routemisr.com/Route-Academy-products/1680396038346-1.jpeg",
-        "https://ecommerce.routemisr.com/Route-Academy-products/1680396038347-2.jpeg",
-        "https://ecommerce.routemisr.com/Route-Academy-products/1680396038348-4.jpeg",
-        "https://ecommerce.routemisr.com/Route-Academy-products/1680396038347-3.jpeg"
-      ],
-      "subcategory": [
-        {
-          "_id": "6407f243b575d3b90bf957ac",
-          "name": "Men's Clothing",
-          "slug": "men's-clothing",
-          "category": "6439d5b90049ad0b52b90048"
-        }
-      ],
-      "ratingsQuantity": 20,
-      "_id": "6428cf07dc1175abc65ca049",
-      "title": "NSW Everyday Essentials No-Show Socks (Pack of 3) White/Black",
-      "slug": "nsw-everyday-essentials-no-show-socks-(pack-of-3)-whiteblack",
-      "description": "Socks are highly comfort, stretchable and will manage moisture\nRibbed elasticated mouths that ensure snug fitting\nElasticated leg band which ensures easy wearability\nCarefully stitched to lend a neat finish\nThick terry sole provides comfort and impact absorption",
-      "quantity": 150,
-      "price": 1079,
-      "priceAfterDiscount": 634,
-      "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1680396038304-cover.jpeg",
-      "category": {
-        "_id": "6439d5b90049ad0b52b90048",
-        "name": "Men's Fashion",
-        "slug": "men's-fashion",
-        "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511865180.jpeg"
-      },
-      "brand": {
-        "_id": "64089c3924b25627a2531593",
-        "name": "Adidas",
-        "slug": "adidas",
-        "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678285881943.png"
-      },
-      "ratingsAverage": 4.2,
-      "createdAt": "2023-04-02T00:40:39.312Z",
-      "updatedAt": "2024-09-21T22:21:17.363Z",
-      "id": "6428cf07dc1175abc65ca049"
     },
     {
       "sold": 1221,
@@ -1303,97 +1258,77 @@
       },
       "price": 300,
       "description": "just a nice watch"
+    },
+    {
+      "id": "fea7",
+      "imageCover": "https://www.wildstone.in/cdn/shop/files/Artboard_3_f0a9a067-92da-4007-a17d-9f6e483ff0c3_1946x.jpg?v=1721215797",
+      "title": "Perfume",
+      "category": {
+        "name": "Beauty & Health"
+      },
+      "price": 333,
+      "description": "just a nice perfume"
     }
   ],
   "categories": [
     {
       "_id": "6439d61c0049ad0b52b90051",
       "name": "Music",
-      "slug": "music",
       "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511964020.jpeg",
-      "createdAt": "2023-04-14T22:39:24.365Z",
-      "updatedAt": "2023-04-14T22:39:24.365Z",
       "id": "c87b"
     },
     {
       "_id": "6439d5b90049ad0b52b90048",
       "name": "Men's Fashion",
-      "slug": "men's-fashion",
       "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511865180.jpeg",
-      "createdAt": "2023-04-14T22:37:45.627Z",
-      "updatedAt": "2023-04-14T22:37:45.627Z",
       "id": "d28a"
     },
     {
       "_id": "6439d58a0049ad0b52b9003f",
       "name": "Women's Fashion",
-      "slug": "women's-fashion",
       "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511818071.jpeg",
-      "createdAt": "2023-04-14T22:36:58.118Z",
-      "updatedAt": "2023-04-14T22:36:58.118Z",
       "id": "9c3b"
     },
     {
       "_id": "6439d41c67d9aa4ca97064d5",
       "name": "SuperMarket",
-      "slug": "supermarket",
       "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511452254.png",
-      "createdAt": "2023-04-14T22:30:52.311Z",
-      "updatedAt": "2023-04-14T22:30:52.311Z",
       "id": "f42f"
     },
     {
       "_id": "6439d40367d9aa4ca97064cc",
       "name": "Baby & Toys",
-      "slug": "baby-and-toys",
       "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511427130.png",
-      "createdAt": "2023-04-14T22:30:27.166Z",
-      "updatedAt": "2023-04-14T22:30:27.166Z",
       "id": "62bf"
     },
     {
       "_id": "6439d3e067d9aa4ca97064c3",
       "name": "Home",
-      "slug": "home",
       "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511392672.png",
-      "createdAt": "2023-04-14T22:29:52.763Z",
-      "updatedAt": "2023-04-14T22:29:52.763Z",
       "id": "5d19"
     },
     {
       "_id": "6439d3c867d9aa4ca97064ba",
       "name": "Books",
-      "slug": "books",
       "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511368164.png",
-      "createdAt": "2023-04-14T22:29:28.200Z",
-      "updatedAt": "2023-04-14T22:29:28.200Z",
       "id": "fcb2"
     },
     {
       "_id": "6439d30b67d9aa4ca97064b1",
       "name": "Beauty & Health",
-      "slug": "beauty-and-health",
       "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511179514.png",
-      "createdAt": "2023-04-14T22:26:19.587Z",
-      "updatedAt": "2023-04-14T22:26:19.587Z",
       "id": "0670"
     },
     {
       "_id": "6439d2f467d9aa4ca97064a8",
       "name": "Mobiles",
-      "slug": "mobiles",
       "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511156008.png",
-      "createdAt": "2023-04-14T22:25:56.071Z",
-      "updatedAt": "2023-04-14T22:25:56.071Z",
       "id": "caa0"
     },
     {
       "_id": "6439d2d167d9aa4ca970649f",
       "name": "Electronics",
-      "slug": "electronics",
       "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511121316.png",
-      "createdAt": "2023-04-14T22:25:21.783Z",
-      "updatedAt": "2023-04-14T22:25:21.783Z",
       "id": "b5da"
     }
   ]
